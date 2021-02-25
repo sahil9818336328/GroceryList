@@ -1,6 +1,8 @@
 # GroceryList 
 
-### Dynamically getting the items from localStorage if any, as soon as the site loads , where we can , add edit delete the items as well as clear the cart.
+### Dynamically getting the items from localStorage if any as soon as the site loads , where we can add, edit, delete the items as well as clear the cart.
+
+### View my deployed app at :- https://sahil9818336328.github.io/GroceryList/
 
 # Technologies used: 
 
